@@ -1,0 +1,52 @@
+		Identificação das partes envolvidas - Preciso que preencha essas informações abaixo e me envie aqui, por favor.
+
+Nome e Sobrenome:  Ricardo Noronha
+
+Nome da empresa: R&N Modas
+
+Escolaridade: Superior completo
+
+Faixa etária: 38 anos
+
+			Levantamento de requisitos
+
+
+Quais são os produtos que você vende (ou os principais)?
+
+Roupas em geral, calças, bonés e acessórios.
+
+
+Principal local aonde trabalha (Ex. Casa, loja, online)?
+
+Loja
+
+O que você mais necessita hoje na sua empresa relacionado á tecnologia ou automação?
+
+Um sistema para gerenciar os meus produtos, saber principalmente o que tenho em estoque e a quantidade, para não ter que ficar toda
+hora fazendo a contagem manual desses produtos.
+
+
+Possui no local de trabalho conexão com internet banda larga com ou sem fio?
+
+Sim de 500MB Wi-fi
+
+
+Quantos computadores possui? 
+
+1 computador
+
+Sobre o seu computador qual o sistema operacional, quantidade de memoria RAM, HD e processador?
+
+Windows 10 - 8GB RAM - HD 500GB e I3
+
+Qual o seu nível de conhecimento técnico em informática, básico, intermediário ou avançado?
+
+Intermediário
+
+O que você utiliza hoje para gestão dos seus produtos?
+
+Faço anotações em blocos de notas com papel e caneta
+
+
+
+
